@@ -358,7 +358,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 **Frontend:** https://cobalt-slack-assessment.netlify.app/  
 **Backend:** https://slack-connect-backend-g7wk.onrender.com/  
-**GitHub:** https://github.com/Shreytan/Slack_Connect  
+**GitHub:** https://github.com/hkaurbe23-hub/
 
 ### Deployment Architecture
 
@@ -413,8 +413,8 @@ Netlify → Render.com → Slack API
 
 ***
 
-**👨💻 Developed by:** Shreyansh Shukla  
+**👨💻 Developed by:** Harnoor Kaur 
 **📅 Assessment:** Full-Stack Development with OAuth & Scheduling | **Date:** August 2025  
 **🌐 Live Demo:** https://cobalt-slack-assessment.netlify.app/  
 **🔗 Backend API:** https://slack-connect-backend-g7wk.onrender.com/  
-**📂 Repository:** https://github.com/Shreytan/Slack_Connect
+**📂 Repository:** https://github.com/hkaurbe23-hub/slack-connect/
